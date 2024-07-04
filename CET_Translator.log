@@ -1,0 +1,52 @@
+[2024-07-03 23:01:18 UTC-03:00] [12780] init.lua:9: attempt to index global 'arg' (a nil value)
+stack traceback:
+	init.lua:9: in function 'compile_and_execute'
+	init.lua:63: in function <init.lua:53>
+[2024-07-03 23:02:43 UTC-03:00] [10812] init.lua:9: attempt to index global 'arg' (a nil value)
+stack traceback:
+	init.lua:9: in function 'compile_and_execute'
+	init.lua:63: in function <init.lua:53>
+[2024-07-03 23:08:48 UTC-03:00] [1536] sol: runtime error: init.lua:41: attempt to index global 'Game' (a nil value)
+stack traceback:
+	init.lua:41: in main chunk
+[2024-07-03 23:13:08 UTC-03:00] [12476] sol: runtime error: init.lua:41: attempt to index global 'Game' (a nil value)
+stack traceback:
+	init.lua:41: in main chunk
+[2024-07-03 23:16:51 UTC-03:00] [11756] init.lua:9: attempt to index global 'arg' (a nil value)
+stack traceback:
+	init.lua:9: in function 'compile_and_execute'
+	init.lua:62: in function <init.lua:52>
+[2024-07-03 23:20:28 UTC-03:00] [11488] init.lua:9: attempt to index global 'arg' (a nil value)
+stack traceback:
+	init.lua:9: in function 'compile_and_execute'
+	init.lua:68: in function <init.lua:66>
+[2024-07-04 00:08:22 UTC-03:00] [6808] sol: runtime error: stack index 2, expected string, received no value: bad get from protected_function_result (is not an error) 
+stack traceback:
+	[C]: in function 'dofile'
+	init.lua:80: in main chunk
+[2024-07-04 00:57:23 UTC-03:00] [13164] init.lua:17: sol: no matching function call takes this number of arguments and the specified types
+stack traceback:
+	[C]: in function 'open'
+	init.lua:17: in function 'getLineFromFile'
+	init.lua:52: in function <init.lua:41>
+[2024-07-04 00:57:30 UTC-03:00] [13164] init.lua:65: attempt to index global 'Text1' (a nil value)
+stack traceback:
+	init.lua:65: in function <init.lua:61>
+[2024-07-04 00:58:35 UTC-03:00] [13164] init.lua:52: attempt to index global 'Text1' (a nil value)
+stack traceback:
+	init.lua:52: in function <init.lua:41>
+[2024-07-04 00:58:43 UTC-03:00] [13164] init.lua:65: attempt to index global 'Text1' (a nil value)
+stack traceback:
+	init.lua:65: in function <init.lua:61>
+[2024-07-04 00:58:44 UTC-03:00] [13164] init.lua:65: attempt to index global 'Text1' (a nil value)
+stack traceback:
+	init.lua:65: in function <init.lua:61>
+[2024-07-04 00:58:45 UTC-03:00] [13164] init.lua:65: attempt to index global 'Text1' (a nil value)
+stack traceback:
+	init.lua:65: in function <init.lua:61>
+[2024-07-04 01:01:44 UTC-03:00] [13164] init.lua:52: attempt to index global 'Text1' (a nil value)
+stack traceback:
+	init.lua:52: in function <init.lua:41>
+[2024-07-04 01:01:47 UTC-03:00] [13164] init.lua:65: attempt to index global 'Text1' (a nil value)
+stack traceback:
+	init.lua:65: in function <init.lua:61>

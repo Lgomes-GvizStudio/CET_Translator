@@ -1,0 +1,19 @@
+0-polish
+1- english
+2 - espanhol
+3 - french
+4 - italiano
+5 - Alemao
+6 - Espanhol-latino
+7 - coreano
+8 - chinese simplified
+9 - russo
+10 - Portugues Brasileiro
+11 - Japones
+12 - chinese traditional
+13 - arabe
+14 - tcheco
+15 - hungaro
+16 - turco
+17 - tailandes
+18 - ucraniano
