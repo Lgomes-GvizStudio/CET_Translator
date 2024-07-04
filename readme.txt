@@ -13,6 +13,7 @@ Cyberpunk2077\bin\x64\plugins\cyber_engine_tweaks
 Config set.lua 
 Write  text , sourceLanguage and the CET_TRANSLATOR outputfilename
 compile set.lua (before load your MOD)
+init.lua have built-in function to get the translated text
 
 -----------------------------------INFO-------------------------------
 Packed in 
