@@ -49,7 +49,7 @@ registerForEvent('onInit', function()
 
     --SetTextTranslations
     Text1 = {
-        filename = "Text1.txt";
+        filename = "TextTranslations.txt";
         
 
     }
