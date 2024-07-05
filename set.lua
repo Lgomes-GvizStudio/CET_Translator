@@ -22,11 +22,11 @@ function compile_and_execute(textInput,SrcINT,TargetINT)
 end
 
 --set the string you want to translate
-Text1 = "translator"
+Text1 = "text"
 --set the language that is written, read at GameLanguageIndex.txt
 SrcINT = 1
 --Set CET_translator outputfilename
-outputfile = "Text1.txt"
+outputfile = "TextTranslations.txt"
 
 
 -- Write text to a file.txt
