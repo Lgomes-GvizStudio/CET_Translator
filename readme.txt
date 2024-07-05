@@ -1,6 +1,6 @@
 ------------------------------CET_TRANSLATOR-------------------------
 
-Translate your MOD text's to the desired Cyberpunk2077 Language .
+Translate your MOD text's to the desired Cyberpunk2077 UI Language .
 This mod is a tool for CET modders that translate String Variables .
 
 -------------------------------Instalation----------------------------
