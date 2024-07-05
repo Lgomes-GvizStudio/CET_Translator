@@ -14,7 +14,7 @@ Cyberpunk2077\bin\x64\plugins\cyber_engine_tweaks
 Config set.lua 
 Write  text , sourceLanguage and the outputfilename
 compile set.lua to store your translations on the outputfile
-init.lua have built-in function to get the translated text, at the selected Cyberpunk UI Language
+init.lua have built-in function to get the translated text
 
 -----------------------------------INFO-------------------------------
 Packed in 
