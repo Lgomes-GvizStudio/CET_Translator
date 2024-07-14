@@ -20,8 +20,10 @@ Translate your MOD texts to the desired Cyberpunk2077 UI language. This mod is a
    - Write your text, source language, and output filename in `set.lua`.
 
 2. **Compile `set.lua`**
+   - ![My Image](15599-1720073026-2097235707.png)
    - Compile `set.lua` to store your translations in the output file.
-   ![My Image](15599-1720073026-2097235707.png)
+
+
 
 3. **Use `init.lua`**
    - `init.lua` has built-in functions to retrieve the translated text.
