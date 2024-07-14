@@ -32,7 +32,7 @@ Translate your MOD texts to the desired Cyberpunk2077 UI language. This mod is a
    - `init.lua` has built-in functions to retrieve the translated text.
    - ![My Image](awqwrwerrwre.png)
    - Example Usage
-   - ![My Image](aasdqweqweqweqweqwe.png)
+   - ![My Image](asdqweqweqweqweqwe.png)
 
 ## Info
 
